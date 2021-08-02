@@ -4,7 +4,7 @@ I am a brazilian student of web development, crazy about animes and books. When 
 
 - 🚀 I am currently a student at [Trybe](https://www.betrybe.com/) <img src="https://avatars.githubusercontent.com/u/55410300?s=60&v=4" alt="Trybe" align="normal" width="20" height="20"/>
 - 👨‍💻 My projects can be found on my [portfolio page](https://jsouza27.github.io/)
-- 📬 How to reach me
+- 📬 Want to find me? contact - mesouzajonathan57@gmail.com
 - 👨‍🔬 Learning is continuous and there will always be a next level
 
 <h3 align="center">Languages and Tools:</h3>
