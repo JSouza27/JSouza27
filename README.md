@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jonathan Souza</h1>
 
-I am a brazilian student of web development, crazy about animes and books. When I'm free, I like to read or watch series, go to places with a good landscape and watch thriller movies and listen to good music like jazz 🎷 for example. But I don't need a good old metal🤘🎶.
+I'm a brazilian web development student, crazy about animes and books. When I'm free, I like to read or watch series, go to places with good scenery and watch thrillers or listen to good music. 🎷🤘🎶.
 
 - 🚀 I am currently a student at [Trybe](https://www.betrybe.com/) <img src="https://avatars.githubusercontent.com/u/55410300?s=60&v=4" alt="Trybe" align="normal" width="20" height="20"/>
 - 👨‍💻 My projects can be found on my [portfolio page](https://jsouza27.github.io/)
