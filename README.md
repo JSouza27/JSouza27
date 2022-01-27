@@ -111,7 +111,11 @@ Sou um estudante de desenvolvimento web, louco por animes e livros. Quando estou
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=JSouza27&show_icons=true&theme=gotham">
   </a>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSouza27&&show_icons=true&&theme=gotham" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSouza27&show_icons=true&locale=en&layout=compact&theme=gotham" />
+  </a>
+  
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSouza27&&show_icons=true&&theme=gotham" /> -->
 </div>
 
 
