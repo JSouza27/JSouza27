@@ -13,6 +13,9 @@ Sou um estudante de desenvolvimento web, louco por animes e livros. Quando estou
     <a href="">
       <img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
     </a>
+      <a href="">
+      <img src="https://img.shields.io/badge/TS-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff" alt="typescript" />
+    </a>
     <a href="">
       <img src="https://img.shields.io/badge/java-FF160B.svg?style=for-the-badge&logo=java&logoColor=FF160B&labelColor=ffffff" alt="java">
      </a>
