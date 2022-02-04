@@ -3,7 +3,7 @@
 Sou um estudante de desenvolvimento web, louco por animes e livros. Quando estou livre, gosto de ler ou assistir séries, ir a lugares com boas paisagens ou ouvir boa música. 🎷🤘🎶.
 
 - 🚀 Atualmente sou estudante na [Trybe](https://www.betrybe.com/) <img src="https://avatars.githubusercontent.com/u/55410300?s=60&v=4" alt="Trybe" align="normal" width="20" height="20"/>
-- 👨‍💻 Meus projetos podem ser encontrados no meu [portfolio page](https://portfolio-d1ox11q0s-jsouza27.vercel.app/)
+- 👨‍💻 Meus projetos podem ser encontrados no meu [portfolio page](https://portfolio-jsouza27.vercel.app/)
 - 📬 Como me encontrar? contate-me: [souzajonathan570@gmail.com](mailto:souzajonathan570@gmail.com)
 - 👨‍🔬 O aprendizado é contínuo e sempre haverá um próximo nível
 
