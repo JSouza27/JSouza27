@@ -43,9 +43,6 @@ Obrigado por visitar meu GitHub e sinta-se à vontade para explorar meus projeto
     <a href="">
       <img src="https://img.shields.io/badge/springboot-7952B3.svg?style=for-the-badge&logo=springboot&logoColor=7952B3&labelColor=ffffff" alt="springboot">
     </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=ffffff" alt="apachemaven">
-    </a>
   </div>
   
   <div>
@@ -57,9 +54,6 @@ Obrigado por visitar meu GitHub e sinta-se à vontade para explorar meus projeto
     </a>
     <a href="">
       <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093&labelColor=ffffff" alt="styledcomponents">
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=ffffff" alt="bootstrap">
     </a>
   </div>
   
