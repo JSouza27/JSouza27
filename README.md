@@ -1,11 +1,20 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Sou o Jonathan Souza</h1>
 
-Sou um estudante de desenvolvimento web, louco por animes e livros. Quando estou livre, gosto de ler ou assistir séries, ir a lugares com boas paisagens ou ouvir boa música. 🎷🤘🎶.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor Fullstack criativo e apaixonado por tecnologia. Aqui você encontrará alguns dos meus projetos mais recentes e desafios de programação que tenho enfrentado.
 
-- 🚀 Atualmente sou estudante na [Trybe](https://www.betrybe.com/) <img src="https://avatars.githubusercontent.com/u/55410300?s=60&v=4" alt="Trybe" align="normal" width="20" height="20"/>
-- 👨‍💻 Meus projetos podem ser encontrados no meu [portfolio page](https://portfolio-jsouza27.vercel.app/)
+Tenho habilidades em todas as camadas do desenvolvimento, incluindo front-end, back-end e banco de dados. Minha abordagem para criar soluções eficazes começa com a compreensão das necessidades do usuário e, em seguida, utilizando tecnologias modernas para criar soluções escaláveis e personalizadas.
+
+Sou experiente em várias tecnologias, incluindo JavaScript, TypeScript, React, Angular, Node.js, SQL e NoSQL, entre outras. Meus projetos refletem minha paixão por criar experiências de usuário envolventes e intuitivas, enquanto utilizo as melhores práticas de desenvolvimento.
+
+Além disso, adoro desafios de programação e estou sempre procurando aprender coisas novas. Aqui no meu GitHub, você encontrará alguns dos meus projetos, bem como alguns desafios que resolvi no passado.
+
+Obrigado por visitar meu GitHub e sinta-se à vontade para explorar meus projetos e desafios. Se você tiver alguma pergunta ou comentário, não hesite em entrar em contato comigo.
+
+- 🚀 Formado na [Trybe](https://www.betrybe.com/) <img src="https://avatars.githubusercontent.com/u/55410300?s=60&v=4" alt="Trybe" align="normal" width="20" height="20"/>
 - 📬 Como me encontrar? contate-me: [souzajonathan570@gmail.com](mailto:souzajonathan570@gmail.com)
 - 👨‍🔬 O aprendizado é contínuo e sempre haverá um próximo nível
+
+<!-- - 👨‍💻 Meus projetos podem ser encontrados no meu [portfolio page](https://portfolio-jsouza27.vercel.app/) -->
 
 <h3 align="center">Skills & Frameworks:</h3>
 <div align="center">
